@@ -1,0 +1,11 @@
+				BRAJ RAJ NAGAR (2022AIB2682)
+				COL 772	ASSIGNMENT-2
+
+collaborated with swaransh patel, sangam kumar, shashank G
+
+ou had a task of named entity recognition (NER) on biomedical texts and I build a model using BiLSTM + CNN.
+I created a class for the BiLSTM model, with parameters for embedding size, hidden size, vocabulary size, number of layers, output size, dropout, and a forward method.
+we trained the BiLSTM model on the dataset using the Adam optimizer and cross-entropy loss, and evaluated its performance using F1 micro and F1 macro.
+then I added a character-level CNN for additional features and retrained the model.
+I used PyTorch's built-in dataset and dataloader classes to handle the input data and collate the batches.
+I performed hyperparameter tuning using grid search to find the optimal combination of hyperparameters for the model.
