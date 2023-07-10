@@ -1,0 +1,14 @@
+Game Over
+Player 1 Score: 87
+Player 2 Score: 35
+{"player": 1, "move": 3, "is_pop": false}
+{"player": 2, "move": 3, "is_pop": false}
+{"player": 1, "move": 2, "is_pop": false}
+{"player": 2, "move": 4, "is_pop": false}
+{"player": 1, "move": 1, "is_pop": false}
+{"player": 2, "move": 2, "is_pop": false}
+{"player": 1, "move": 1, "is_pop": false}
+{"player": 2, "move": 0, "is_pop": false}
+{"player": 1, "move": 1, "is_pop": false}
+{"player": 2, "move": 1, "is_pop": false}
+{"player": 1, "move": 2, "is_pop": false}
